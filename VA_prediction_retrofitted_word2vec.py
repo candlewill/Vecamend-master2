@@ -104,4 +104,3 @@ if __name__ == '__main__':
     regression(vecs, np.array(valence))
     print("Arousal")
     regression(vecs, np.array(arousal))
-# git
